@@ -37,16 +37,16 @@ The system improves over time through user feedback. When beekeepers reject a re
 ## Installation & Setup
 
 ### Backend Setup
-cd backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
+1. cd backend
+2. python -m venv venv
+3. venv\Scripts\activate
+4. pip install -r requirements.txt
+5. python main.py
 
 ### Frontend Setup
-cd frontend
-npm install
-npm start
+1. cd frontend
+2. npm install
+3. npm start
 
 ## Why It's an Agent (Not Just an API)
 
